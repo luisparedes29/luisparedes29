@@ -1,4 +1,7 @@
-<h1 align="center">Hola 👋 , Soy Luis Paredes</h1><h3 align="center">Estudiante de Ingenieria en Computacion</h3>- Actualmente estoy aprendiendo **React, Node, Express y MongoDB**- Pregúntame acerca de **Node, Express, API REST**- 🌱 📫 💬 Como contactarme **luisparedescrv@gmail.com**
+<h1 align="center">Hola 👋 , Soy Luis Paredes</h1><h3 align="center">Estudiante de Ingenieria en Computacion</h3>
+- Actualmente estoy aprendiendo **React, Node, Express y MongoDB**
+- - Pregúntame acerca de **Node, Express, API REST**
+- - 🌱 📫 💬 Como contactarme **luisparedescrv@gmail.com**
 
 
 
