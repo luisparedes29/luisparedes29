@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 , Soy Luis Paredes</h1><h3 align="center">Estudiante de Ingenieria en Computacion</h3>
-- 🌱Actualmente estoy aprendiendo <strong>React,SQL y MongoDB</strong> <br>
+- 🌱Actualmente estoy aprendiendo <strong>React, SQL y MongoDB</strong> <br>
 - 📫Pregúntame acerca de <strong>Node, Express, API REST y todo referente a Backend</strong> <br>
 - 💬 Como contactarme <strong>luisparedescrv@gmail.com</strong>
 
